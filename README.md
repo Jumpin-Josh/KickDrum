@@ -4,7 +4,7 @@ This is the second part of a bigger project where i'm making several analog synt
 ### Table of Contents
 1. [Initial Simulations](https://github.com/Jumpin-Josh/KickDrum?tab=readme-ov-file#initial-simulations)
 2. [Breadboard Prototyping](https://github.com/Jumpin-Josh/KickDrum?tab=readme-ov-file#breadboard-prototyping)
-3. [PCB Design and Circuit Assembly]()
+3. [PCB Design and Circuit Assembly](https://github.com/Jumpin-Josh/KickDrum?tab=readme-ov-file#pcb-design-and-circuit-assembly)
 4. [Enclosure Design](https://github.com/Jumpin-Josh/KickDrum?tab=readme-ov-file#enclosure-design)
 5. [Final Product and Closing Thoughts](https://github.com/Jumpin-Josh/KickDrum?tab=readme-ov-file#enclosure-design)
 
