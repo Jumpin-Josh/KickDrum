@@ -1,5 +1,5 @@
 # KickDrum
-This is the second part of a bigger project where i'm making several analog synth modules. I'm building this in tandem with the 3 channel mixer that its own repo yuo can find [here](https://github.com/Jumpin-Josh/AudioMixer). This kick drum circuit design was taken from this YouTube [video.](https://youtu.be/yz37Yz315eU?si=P70lOI3g9exFc0Ud&t=1760)
+This is the second part of a bigger project where i'm making several analog synth modules. I'm building this in tandem with the 3 channel mixer that has its own repo you can find [here](https://github.com/Jumpin-Josh/AudioMixer)! This kick drum circuit design was taken from this YouTube [video.](https://youtu.be/yz37Yz315eU?si=P70lOI3g9exFc0Ud&t=1760)
 
 ### Table of Contents
 1. [Initial Simulations](https://github.com/Jumpin-Josh/KickDrum?tab=readme-ov-file#initial-simulations)
