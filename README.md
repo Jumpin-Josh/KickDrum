@@ -9,6 +9,7 @@ This is the second part of a bigger project where i'm making several analog synt
 5. [Final Product and Closing Thoughts](https://github.com/Jumpin-Josh/KickDrum?tab=readme-ov-file#enclosure-design)
 
 ## Initial Simulations
+![alt text](https://github.com/Jumpin-Josh/KickDrum/blob/main/simulations/Kickdrum%20Circuit.png "Kick Drum circuit in LTSPice")
 ## Breadboard Prototyping
 ## PCB Design and Circuit Assembly
 ## Enclosure Design
